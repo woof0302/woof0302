@@ -1,13 +1,21 @@
 <img align="left" src="https://raw.githubusercontent.com/woof0302/woof0302/main/images/profile.JPG" width="150" height="300">
 
-### 👋 안녕하세요! 우승민입니다.
-- 🔧 임베디드 시스템, IoT, 네트워크 개발 경험 보유
-- 💡 창의적 문제 해결, 시스템 통합에 강점
-- 🧠 사용 언어: C, C++, Python, Qt, Embedded Linux
-- 🌏 사용 가능 언어: 한국어, 영어, 중국어
+
+###  안녕하세요! 우승민입니다.
+-  임베디드 시스템, IoT, 네트워크 개발 경험 보유
+-  창의적 문제 해결, 시스템 통합에 강점
+-  사용 언어: C, C++, Python, Qt, Embedded Linux
+-  사용 가능 언어: 한국어, 영어, 중국어
 
 
-## 📁 포트폴리오
+
+
+
+
+
+
+
+##  포트폴리오
 
 [![경마 게임 프로젝트](https://your-thumbnail-link.com/horse_racing_thumb.png)](https://github.com/username/horse-racing-game)
 **STM32 & Raspberry Pi 기반 경마 게임**  
