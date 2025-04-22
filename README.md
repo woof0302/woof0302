@@ -1,5 +1,4 @@
-<img align="left" src="images/profile.jpg
- " width="120" height="120">
+<img align="left" src="https://raw.githubusercontent.com/woof0302/woof0302/main/images/profile.JPG" width="120" height="120">
 
 ### 👋 안녕하세요! 우승민입니다.
 - 🔧 임베디드 시스템, IoT, 네트워크 개발 경험 보유
