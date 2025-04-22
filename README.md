@@ -1,4 +1,4 @@
-<img align="left" src="![우승민_증명](https://github.com/user-attachments/assets/69d4ae6c-94be-4791-b516-24d1f40ff1f6)
+<img align="left" src="images/profile.jpg
  " width="120" height="120">
 
 ### 👋 안녕하세요! 우승민입니다.
