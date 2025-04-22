@@ -1,4 +1,5 @@
-<img align="left" src="https://C:\Users\STC\Desktop\0_우승민_증명.JPG_250407" width="120" height="120">
+<img align="left" src="![우승민_증명](https://github.com/user-attachments/assets/69d4ae6c-94be-4791-b516-24d1f40ff1f6)
+ " width="120" height="120">
 
 ### 👋 안녕하세요! 우승민입니다.
 - 🔧 임베디드 시스템, IoT, 네트워크 개발 경험 보유
